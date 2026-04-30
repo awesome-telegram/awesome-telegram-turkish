@@ -17,3 +17,7 @@ Türkçe Telegram kanalları, grupları ve botları.
 
 ## Telegram Botları
 
+| İsim | Açıklama | Telegram |
+|------|-----------|----------|
+| Cyber Collector | TikTok (filigransız), Instagram Reels/Hikayeleri, YouTube+Shorts, X/Twitter, Facebook videolarını indirmek için ücretsiz Telegram botu. Kayıt yok, reklam yok. [Web Sitesi](https://cybercollector.hitkey.io) | [Aç](https://t.me/cybercollectorbot) |
+
